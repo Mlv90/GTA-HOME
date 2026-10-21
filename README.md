@@ -1,0 +1,1 @@
+Projeto de estudos desenvolvido no DevClub, inspirado na identidade visual do GTA. Criei uma tela inicial com foco em design, experiência do usuário e interatividade, utilizando HTML5, CSS3 e JavaScript para praticar conceitos de desenvolvimento front-end e aprimorar minhas habilidades na criação de interfaces web.
